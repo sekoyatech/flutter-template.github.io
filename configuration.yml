@@ -1,0 +1,8 @@
+urls:
+  base_url:                             # https://sekoya.tech/ default: https://github.com/sekoyatech/flutter-template.github.io
+  contact: /contact                     # /contact
+  about-us: /about-us                   # /about-us
+  privacy-policy: /privacy-policy       # /privacy-policy
+  terms-of-service: /terms-of-service   # /terms-of-service
+  faq: /faq                             # /faq
+  gdpr: /gdpr                           # /gdpr
