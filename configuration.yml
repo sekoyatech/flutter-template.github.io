@@ -6,7 +6,4 @@ urls:
   terms-of-service: /terms-of-service                       # /terms-of-service
   faq: /faq                                                 # /faq
   gdpr: /gdpr                                               # /gdpr
-metabase:
-  base_url: https://randiman-metabase-xwa7l.ondigitalocean.app
-  port:
   
